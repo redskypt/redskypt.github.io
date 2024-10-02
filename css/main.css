@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: tutifruti;
+    font-size: 50;
+}
+
+@font-face {
+    font-family: tutifruti;
+    src: url(fonts/QwitcherGrypen-Bold.ttf);
+}
+
+.entro{
+    position: absolute;
+    width: auto;
+    height: auto;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+}
